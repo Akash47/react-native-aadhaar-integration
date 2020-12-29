@@ -1,0 +1,34 @@
+{
+  "name": "react-native-webview-aadhaar-integration",
+  "version": "0.0.9",
+  "description": "Aadhar Integration via using react native webview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash47/react-native-aadhaar-integration.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react-native",
+    "aadhaar",
+    "aadhaarIntegration",
+    "webview",
+    "aadhaar",
+    "offline",
+    "kyc"
+  ],
+  "author": "Akash Nigam <akashnigam802@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akash47/react-native-aadhaar-integration/issues"
+  },
+  "homepage": "https://github.com/Akash47/react-native-aadhaar-integration#readme",
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.2",
+    "react-native-webview": "^11.0.2"
+  }
+}
