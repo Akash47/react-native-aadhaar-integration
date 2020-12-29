@@ -34,8 +34,8 @@ const myScript = `
     document.getElementById("aadhardialog").close();
     document.getElementById("captchaDialog").showModal();
     let captchaImage = document.getElementById("captcha-img");
-    let ak = document.getElementById("captchaDialog");
-    ak.appendChild(captchaImage);
+    let captchaDialog1 = document.getElementById("captchaDialog");
+    captchaDialog1.appendChild(captchaImage);
     document.body.appendChild(captchaDialog);
     return true;};
 
